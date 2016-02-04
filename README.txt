@@ -1,0 +1,1 @@
+The purpose of this project is to make a program that will print out the 99 bottles song to console.
