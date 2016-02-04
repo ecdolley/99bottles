@@ -1,0 +1,8 @@
+/99bottles/build
+/99bottles/build/*
+/99bottles/nbproject
+/99bottles/nbproject/*
+/99bottles/test
+/99bottles/test/*
+/99bottles/build.xml
+/99bottles/manifest.mf
